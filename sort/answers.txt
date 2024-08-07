@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: On already sorted data it was a lot faster than selection sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: This was the fastest algorithm in reversed random sort and sometimes the fastest in the other sorts.
+
+sort3 uses: Selection Sort
+
+How do you know?: All the times spent on all 3 kinds of sort were relatively the same.
